@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\bin\Debug\netcoreapp3.1\Stack - reverse string.exe
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\bin\Debug\netcoreapp3.1\Stack - reverse string.deps.json
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\bin\Debug\netcoreapp3.1\Stack - reverse string.runtimeconfig.json
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\bin\Debug\netcoreapp3.1\Stack - reverse string.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\bin\Debug\netcoreapp3.1\Stack - reverse string.dll
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\bin\Debug\netcoreapp3.1\Stack - reverse string.pdb
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\obj\Debug\netcoreapp3.1\Stack - reverse string.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\obj\Debug\netcoreapp3.1\Stack - reverse string.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\obj\Debug\netcoreapp3.1\Stack - reverse string.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\obj\Debug\netcoreapp3.1\Stack - reverse string.dll
+C:\Users\i7 boy\source\repos\Stack - reverse string\Stack - reverse string\obj\Debug\netcoreapp3.1\Stack - reverse string.pdb
