@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\bin\Debug\netcoreapp3.1\Text editor - stack and queue.exe
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\bin\Debug\netcoreapp3.1\Text editor - stack and queue.deps.json
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\bin\Debug\netcoreapp3.1\Text editor - stack and queue.runtimeconfig.json
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\bin\Debug\netcoreapp3.1\Text editor - stack and queue.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\bin\Debug\netcoreapp3.1\Text editor - stack and queue.dll
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\bin\Debug\netcoreapp3.1\Text editor - stack and queue.pdb
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\obj\Debug\netcoreapp3.1\Text editor - stack and queue.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\obj\Debug\netcoreapp3.1\Text editor - stack and queue.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\obj\Debug\netcoreapp3.1\Text editor - stack and queue.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\obj\Debug\netcoreapp3.1\Text editor - stack and queue.dll
+C:\Users\i7 boy\source\repos\Text editor - stack and queue\Text editor - stack and queue\obj\Debug\netcoreapp3.1\Text editor - stack and queue.pdb
