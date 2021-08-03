@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.exe
+C:\Users\i7 boy\source\repos\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.deps.json
+C:\Users\i7 boy\source\repos\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.runtimeconfig.json
+C:\Users\i7 boy\source\repos\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.dll
+C:\Users\i7 boy\source\repos\Stacks\Stacks\bin\Debug\netcoreapp3.1\Stacks.pdb
+C:\Users\i7 boy\source\repos\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.dll
+C:\Users\i7 boy\source\repos\Stacks\Stacks\obj\Debug\netcoreapp3.1\Stacks.pdb
