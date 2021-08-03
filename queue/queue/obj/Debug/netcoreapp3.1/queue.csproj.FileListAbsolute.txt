@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\queue\queue\bin\Debug\netcoreapp3.1\queue.exe
+C:\Users\i7 boy\source\repos\queue\queue\bin\Debug\netcoreapp3.1\queue.deps.json
+C:\Users\i7 boy\source\repos\queue\queue\bin\Debug\netcoreapp3.1\queue.runtimeconfig.json
+C:\Users\i7 boy\source\repos\queue\queue\bin\Debug\netcoreapp3.1\queue.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\queue\queue\bin\Debug\netcoreapp3.1\queue.dll
+C:\Users\i7 boy\source\repos\queue\queue\bin\Debug\netcoreapp3.1\queue.pdb
+C:\Users\i7 boy\source\repos\queue\queue\obj\Debug\netcoreapp3.1\queue.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\queue\queue\obj\Debug\netcoreapp3.1\queue.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\queue\queue\obj\Debug\netcoreapp3.1\queue.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\queue\queue\obj\Debug\netcoreapp3.1\queue.dll
+C:\Users\i7 boy\source\repos\queue\queue\obj\Debug\netcoreapp3.1\queue.pdb
