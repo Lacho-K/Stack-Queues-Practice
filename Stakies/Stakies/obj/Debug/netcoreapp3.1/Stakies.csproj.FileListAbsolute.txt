@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\Stakies\Stakies\bin\Debug\netcoreapp3.1\Stakies.exe
+C:\Users\i7 boy\source\repos\Stakies\Stakies\bin\Debug\netcoreapp3.1\Stakies.deps.json
+C:\Users\i7 boy\source\repos\Stakies\Stakies\bin\Debug\netcoreapp3.1\Stakies.runtimeconfig.json
+C:\Users\i7 boy\source\repos\Stakies\Stakies\bin\Debug\netcoreapp3.1\Stakies.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\Stakies\Stakies\bin\Debug\netcoreapp3.1\Stakies.dll
+C:\Users\i7 boy\source\repos\Stakies\Stakies\bin\Debug\netcoreapp3.1\Stakies.pdb
+C:\Users\i7 boy\source\repos\Stakies\Stakies\obj\Debug\netcoreapp3.1\Stakies.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\Stakies\Stakies\obj\Debug\netcoreapp3.1\Stakies.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\Stakies\Stakies\obj\Debug\netcoreapp3.1\Stakies.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\Stakies\Stakies\obj\Debug\netcoreapp3.1\Stakies.dll
+C:\Users\i7 boy\source\repos\Stakies\Stakies\obj\Debug\netcoreapp3.1\Stakies.pdb
