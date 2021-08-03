@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\bin\Debug\netcoreapp3.1\Stacks and queles - more practice.exe
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\bin\Debug\netcoreapp3.1\Stacks and queles - more practice.deps.json
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\bin\Debug\netcoreapp3.1\Stacks and queles - more practice.runtimeconfig.json
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\bin\Debug\netcoreapp3.1\Stacks and queles - more practice.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\bin\Debug\netcoreapp3.1\Stacks and queles - more practice.dll
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\bin\Debug\netcoreapp3.1\Stacks and queles - more practice.pdb
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\obj\Debug\netcoreapp3.1\Stacks and queles - more practice.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\obj\Debug\netcoreapp3.1\Stacks and queles - more practice.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\obj\Debug\netcoreapp3.1\Stacks and queles - more practice.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\obj\Debug\netcoreapp3.1\Stacks and queles - more practice.dll
+C:\Users\i7 boy\source\repos\Stacks and queles - more practice\Stacks and queles - more practice\obj\Debug\netcoreapp3.1\Stacks and queles - more practice.pdb
