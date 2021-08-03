@@ -1,0 +1,11 @@
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\bin\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.exe
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\bin\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.deps.json
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\bin\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.runtimeconfig.json
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\bin\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.runtimeconfig.dev.json
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\bin\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.dll
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\bin\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.pdb
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\obj\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.csprojAssemblyReference.cache
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\obj\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.AssemblyInfoInputs.cache
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\obj\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.AssemblyInfo.cs
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\obj\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.dll
+C:\Users\i7 boy\source\repos\Stacks and Queues - evenMoreExcercise\Stacks and Queues - evenMoreExcercise\obj\Debug\netcoreapp3.1\Stacks and Queues - evenMoreExcercise.pdb
